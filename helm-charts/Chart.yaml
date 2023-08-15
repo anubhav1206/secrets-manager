@@ -39,6 +39,14 @@ home: https://vsecm.com/
 # icon: 
 keywords:
   - secrets
+  - security 
+  - secret-management
+  - edge
+  - cloud-native
+  - zero-trust
+  - spiffe
+  - spire
+  - secrets-manager
 
 dependencies:
   - name: spire
